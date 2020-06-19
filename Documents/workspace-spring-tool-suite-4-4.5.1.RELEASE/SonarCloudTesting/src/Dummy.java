@@ -1,9 +1,10 @@
 
 public class Dummy {
-	int f;
+	int f; 
 	public static void main(String ...a) {
 		int g;
 		int w;
+		System.out.println("dfjgfgjk");
 	}
 
 }
